@@ -1,2 +1,3 @@
 # Aula2Loo
 Aula de Linguagem Orientada
+Nesta aula usamos o Alice3, ferramenta que cria vídeos/cenários usando Linguagem orientada à Objetos usando estrutura de blocos. Para testar a ferramenta, criei um cenário (Lua), coloquei 2 objetos (um rádio e um snowboard) e um sujeito (um lobo). Para testar a movimentação e articulação, testei mover nos joelhos do lobo, além do comando "Roll" para girar o objeto (o lobo), após isso acrescentei um Fade out na câmera (escurecer a tela) e adicionar um novo objeto (martelo) que sofreu um resize (ajuste de tamanho) além de um roll antes das ações do lobo, para sincronizar o movimento de ambos há um delay entre as ações. 
